@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">News Feed</string>
+
+    <string name="settings_menu">Settings</string>
+    <string name="settings_title">Topic Settings</string>
+
+    <string name="topic_label">Topic</string>
+    <string name="topic_key" translatable="false">topic</string>
+    <string name="topic_default" translatable="false">@string/topic_science_value</string>
+
+    <string name="topic_science_label">Science</string>
+    <string name="topic_science_value" translatable="false">science</string>
+
+    <string name="topic_education_label">Education</string>
+    <string name="topic_education_value" translatable="false">education</string>
+
+    <string name="topic_sports_label">Sports</string>
+    <string name="topic_sports_value" translatable="false">sports</string>
+
+    <string name="no_internet">No internet connection. Check your internet connection and restart the application.</string>
+    <string name="no_news">No news found. Either the server was unresponsive or there was no recent news. You can try restarting the application to populate news items.</string>
+</resources>

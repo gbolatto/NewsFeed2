@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="topic_labels">
+        <item>@string/topic_science_label</item>
+        <item>@string/topic_education_label</item>
+        <item>@string/topic_sports_label</item>
+    </string-array>
+
+    <string-array name="topic_values">
+        <item>@string/topic_science_value</item>
+        <item>@string/topic_education_value</item>
+        <item>@string/topic_sports_value</item>
+    </string-array>
+</resources>
